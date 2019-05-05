@@ -1,14 +1,84 @@
-/*
-Theme Name: Hotel_5
-Theme URI: https://olx.ro
-Author: Pal Andrea
-Author URI: https:olx.ro
-Description: Lorem Ipsum este pur si simplu o macheta pentru text a industriei tipografice. Lorem Ipsum a fost macheta standard a industriei īnca din secolul al XVI-lea, cānd un tipograf anonim a luat o planseta de litere si le-a amestecat pentru a crea o carte demonstrativa pentru literele respective. Nu doar ca a supravietuit timp de cinci secole, dar si a facut saltul īn tipografia electronica practic neschimbata. A fost popularizata īn anii '60 odata cu iesirea colilor Letraset care contineau pasaje Lorem Ipsum, iar mai recent, prin programele de publicare pentru calculator, ca Aldus PageMaker care includeau versiuni de Lorem Ipsum. E un fapt bine stabilit ca cititorul va fi sustras de continutul citibil al unei pagini atunci cānd se uita la asezarea īn pagina
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: Lorem Ipsum 
 
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
-*/
+
+
+.header {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 5027px;
+  z-index: 301;
+
+}
+.minimø {
+  font-size: 30px;
+  font-family: "Inconsolata";
+  color: rgb(0, 0, 0);
+  text-transform: uppercase;
+  line-height: 0.8;
+  text-align: center;
+  position: absolute;
+  left: -41.207px;
+  top: 89.28px;
+  width: 119px;
+  height: 23px;
+  z-index: 300;
+}
+.lifestyle {
+  font-size: 14px;
+  font-family: "Playfair Display";
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 536.798px;
+  top: 99.106px;
+  width: 71px;
+  height: 11px;
+  z-index: 299;
+}
+.photodiary {
+  font-size: 14px;
+  font-family: "Playfair Display";
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 737.2px;
+  top: 99.106px;
+  width: 88px;
+  height: 11px;
+  z-index: 298;
+}
+.travel {
+  font-size: 14px;
+  font-family: "Playfair Display";
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 1048.316px;
+  top: 99.106px;
+  width: 52px;
+  height: 11px;
+  z-index: 297;
+}
+.music {
+  font-size: 14px;
+  font-family: "Playfair Display";
+  color: rgb(98, 98, 98);
+  text-transform: uppercase;
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 907.212px;
+  top: 99.106px;
+  width: 43px;
+  height: 11px;
+  z-index: 296;
+}
+
+
